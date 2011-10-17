@@ -12,76 +12,93 @@ import java.util.List;
  
 public class OffsetBook
 {
-    public class Test
-    {
-        private String _subjName;
-        private String _date;
+     public class Test
+     {
+        private String _subject;
         private boolean _isPassed;
-        private String _result;
-        
-        public Test(String _subjName, String _date, boolean _isPassed, String _result) {
-            this._subjName = _subjName;
-            this._date = _date;
+        private String _date;
+
+        public   Test () {};
+        public Test(String _subject, boolean _isPassed, String _date)
+        {
+            this._subject = _subject;
             this._isPassed = _isPassed;
-            this._result = _result;
+            this._date = _date;
         }
 
-        public String getDate() {
+        public String getDate()
+        {
             return _date;
         }
 
-        public boolean isIsPassed() {
+        public boolean isPassed()
+        {
             return _isPassed;
         }
 
-        public String getResult() {
-            return _result;
+
+        public String getSubject()
+        {
+            return _subject;
         }
 
-        public String getSubjName() {
-            return _subjName;
-        }
-
-        public void setDate(String _date) {
+        public void setDate(String _date)
+        {
             this._date = _date;
         }
 
-        public void setIsPassed(boolean _isPassed) {
+        public void setIsPassed(boolean _isPassed)
+        {
             this._isPassed = _isPassed;
         }
 
-        public void setResult(String _result) {
+        public void setSubject(String _subject)
+        {
+            this._subject = _subject;
+        }
+     }
+
+     public class Offset extends Test
+     {
+        private boolean _result;
+
+        public Offset(String _subject, boolean _isPassed, String _date, boolean _result)
+        {
             this._result = _result;
         }
 
-        public void setSubjName(String _subjName) {
-            this._subjName = _subjName;
-        }
 
-        @Override
-        public String toString() {
-            return "Test{" + "_subjName=" + _subjName + "_date=" + _date + "_isPassed=" + _isPassed + "_result=" + _result + '}';
-        }
 
-        private List<Test> _exams;
-        private List<Test> _offsets;
-
-        public boolean  addExam (Test exam)
+        public boolean getResult()
         {
-           return _exams.add(exam);
+            return _result;
         }
 
-        public boolean addOffset (Test offTest)
+        public void setResult(boolean _result)
         {
-            return _offsets.add(this);            
+            this._result = _result;            
+        }
+     }
+
+     public class Exam extends Test
+     {
+         private int _result;
+
+        public Exam(String _subject, boolean _isPassed, String _date, int _result)
+        {
+            this._result = _result;
         }
 
+        public int getResult() {
+            return _result;
+        }
 
+        public void setResult(int _result) {
+            this._result = _result;
+        }
+     }
 
-
-
-        
-    }
-
-    
+     private List<Exam> _exams;
+     private List<Offset> _offsets;
+     
 }
