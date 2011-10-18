@@ -19,7 +19,7 @@ public class Main
      */
     public static void main(String[] args)
     {
-         
+         Group grp = new Group("test.studs.xml");
        
         
     }

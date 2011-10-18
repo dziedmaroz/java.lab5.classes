@@ -22,6 +22,23 @@ public class  Group
         /**This class describes term session*/
         public class Session
         {
+            private  String _sem;
+
+            public Session(String _sem)
+            {
+                this._sem = _sem;
+            }
+
+            public String getSem()
+            {
+                return _sem;
+            }
+
+            public void setSem(String _sem)
+            {
+                this._sem = _sem;
+            }
+            
             /**Parent class for Exam and Offset classes*/
             public class Test
             {
@@ -199,7 +216,18 @@ public class  Group
         {
             for (int i=0;i<nl.getLength();i++)
             {
-                
+                Element curBook =(Element) nl.item(i);
+                OffsetBook tmpBook = new OffsetBook(curBook.getAttribute("num"),curBook.getAttribute("owner"));
+                NodeList nlSessions = curBook.getElementsByTagName("session")    ;
+                if (nlSessions!=null && nl.getLength()>0)
+                {
+                    for (int j=0;j<nl.getLength();j++)
+                    {
+                        Element curSession = (Element) nlSessions.item(j);
+                        OffsetBook.Session tmpSession = new OffsetBook.Session (curSession.getAttribute("sem"));
+
+                    }
+                }
             }
         }
 
