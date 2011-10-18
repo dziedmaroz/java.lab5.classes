@@ -1,0 +1,1908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+<book owner="T.Karlsson" num="0000001">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="R.Edgren" num="0000002">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="P.K.Johansson" num="0000003">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Jonsson" num="0000004">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="S.Wallberg" num="0000005">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="A.Andersson" num="0000006">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="H.Karlsson" num="0000007">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="K.Bergqvist" num="0000008">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Hornlund" num="0000009">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="R.Lopez" num="0000010">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="D.Gothberg" num="0000011">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="P.Hoyles" num="0000012">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Kopparhed" num="0000013">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="C.Cyreus" num="0000014">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="T.Dahl" num="0000015">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Bagge" num="0000016">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="T.Laedre" num="0000017">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="L.Martensson" num="0000018">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="D.Mod" num="0000019">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Eriksson" num="0000020">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="D.Sundberg" num="0000021">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="N.Goksu" num="0000022">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="N.Fegraeus" num="0000023">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="F.Lindblom" num="0000024">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Stenkvist" num="0000025">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Lord" num="0000026">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="L.Fujita" num="0000027">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="E.Sjovold" num="0000028">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="T.Holmsten" num="0000029">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Ostman" num="0000030">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="T.Soderman" num="0000031">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="D.Wiksten" num="0000032">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Sanick" num="0000033">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Salt" num="0000034">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Doran" num="0000035">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="S.Lindgren" num="0000036">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Sjoberg" num="0000037">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="D.Votypka" num="0000038">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="B.Pajor" num="0000039">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Andersson" num="0000040">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="P.Lindholm" num="0000041">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="P.OShaughnessy" num="0000042">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="N.Stromquist" num="0000043">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="S.Strandberg" num="0000044">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Fritze" num="0000045">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Norberg" num="0000046">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="B.Hedberg" num="0000047">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="O.Carlen" num="0000048">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="K.Hegethorn" num="0000049">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="D.Sirland" num="0000050">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Dawsari" num="0000051">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="L.Gustavsson" num="0000052">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="C.Bergqvist" num="0000053">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Kjellstrom" num="0000054">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="P.Soderlund" num="0000055">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="H.Andersson" num="0000056">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Gonzales" num="0000057">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Crabtree" num="0000058">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="C.Tou" num="0000059">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="G.Pigula" num="0000060">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Le" num="0000061">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="R.Pace" num="0000062">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="K.Lee" num="0000063">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="R.Walton" num="0000064">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="D.King" num="0000065">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="F.Morales" num="0000066">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="L.Castillo" num="0000067">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Persson" num="0000068">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="U.Rask" num="0000069">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Dohl" num="0000070">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Kylmamaa" num="0000071">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="S.Parkinson" num="0000072">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Newton" num="0000073">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="A.Papasavas" num="0000074">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="L.Josephson" num="0000075">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="S.Decker" num="0000076">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Rudberg" num="0000077">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Hedlund" num="0000078">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="C.Grass" num="0000079">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Aberg" num="0000080">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="R.Smedberg" num="0000081">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="P.Osterblom" num="0000082">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="S.Evans" num="0000083">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="S.Abdey" num="0000084">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="D.Aberin" num="0000085">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Belanger" num="0000086">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Biro" num="0000087">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Brassard" num="0000088">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Ceron" num="0000089">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Choy" num="0000090">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="R.Davey" num="0000091">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="E.Douridas" num="0000092">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="C.Elliott" num="0000093">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Evans" num="0000094">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="R.Gimbel" num="0000095">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="R.Hallwood" num="0000096">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Hart" num="0000097">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="K.Hoang" num="0000098">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="D.Kerr" num="0000099">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="F.Liliegren" num="0000100">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="R.Linde" num="0000101">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Livesey" num="0000102">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="R.Love" num="0000103">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="A.Marini" num="0000104">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="S.North" num="0000105">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="S.Pinkerton" num="0000106">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Price" num="0000107">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="D.Rickard" num="0000108">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Ross" num="0000109">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="E.Smith" num="0000110">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="N.White" num="0000111">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="K.Yip" num="0000112">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="W.Young" num="0000113">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="4">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="D.Yee" num="0000114">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Vifian" num="0000115">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="B.Smith" num="0000116">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="L.Brown" num="0000117">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="S.Flyte" num="0000118">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="C.Barnett" num="0000119">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="5">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="M.Cassidy" num="0000120">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="1">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="1"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="T.Kingston" num="0000121">
+  <session sem="1">
+        <exams>
+                 <subject res="2">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="I.Ackworth" num="0000122">
+  <session sem="1">
+        <exams>
+                 <subject res="4">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.VanRooyen" num="0000123">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="4">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="3">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Hartling" num="0000124">
+  <session sem="1">
+        <exams>
+                 <subject res="1">Матанализ</subject>
+                 <subject res="3">Программирование</subject>
+                          <subject res="1">Геометрия и алгебра</subject>
+                 <subject res="5">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="J.Hargelid" num="0000125">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="5">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="C.Clarke" num="0000126">
+  <session sem="1">
+        <exams>
+                 <subject res="3">Матанализ</subject>
+                 <subject res="1">Программирование</subject>
+                          <subject res="3">Геометрия и алгебра</subject>
+                 <subject res="2">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="0">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+<book owner="C.Clark" num="0000127">
+  <session sem="1">
+        <exams>
+                 <subject res="5">Матанализ</subject>
+                 <subject res="2">Программирование</subject>
+                          <subject res="2">Геометрия и алгебра</subject>
+                 <subject res="4">Дискретная математика</subject>
+         </exams>
+ <offsets>
+ <subject res="1">Матанализ</subject>
+<subject res="0"> История</subject>
+</offsets>
+  </session>
+</book>
+
+</group>
